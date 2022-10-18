@@ -7,7 +7,7 @@ local Ship = {}
 
 function Ship.ShipFighter(seed, res)
   local rng = RNG.Create(seed)
-  local type = rng:choose({1, 2})
+  local type = rng:choose({1, 3})
   if type == 1 then
     Profiler.Begin('Gen.ShipFighter.Standard')
     local result = ShipFighter.Standard(rng)

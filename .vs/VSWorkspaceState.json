@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\libphx",
+    "\\libphx\\script",
+    "\\libphx\\script\\ffi",
+    "\\libphx\\script\\ffiext",
+    "\\libphx\\src",
+    "\\libphx\\tool",
+    "\\script",
+    "\\script\\env",
+    "\\script\\phx\\util"
+  ],
+  "SelectedNode": "\\libphx\\src\\BoxMesh.cpp",
+  "PreviewInSolutionExplorer": false
+}
